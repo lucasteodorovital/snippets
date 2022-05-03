@@ -1,0 +1,548 @@
+,uf,cnae_grupo,contagem,seq,flag,contagem_ttl,%,flag_rede
+0,TO,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,554,1,0,5351,0.10353205008409642,1
+1,TO,Restaurantes e outros serviços de alimentação e bebidas,491,2,0,5351,0.091758549803775,1
+2,TO,"Comércio varejista de produtos alimentícios, bebidas e fumo",316,3,0,5351,0.05905438235843768,1
+3,TO,Comércio varejista não-especializado,313,4,0,5351,0.05849373948794618,1
+4,TO,Outras atividades de serviços pessoais,286,5,0,5351,0.05344795365352271,1
+5,TO,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,228,6,0,5351,0.04260885815735377,1
+6,TO,Atividades de organizações associativas não especificadas anteriormente,198,7,0,5351,0.0370024294524388,1
+7,TO,Manutenção e reparação de veículos automotores,195,8,0,5351,0.0364417865819473,1
+8,TO,Publicidade,155,9,0,5351,0.02896654830872734,1
+9,TO,Outros serviços especializados para construção,135,10,0,5351,0.025228929172117363,1
+10,TO,Outros,2480,11,0,5351,0.46346477293963745,1
+11,SP,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,37038,1,0,380611,0.09731195367448654,1
+12,SP,Restaurantes e outros serviços de alimentação e bebidas,32083,2,0,380611,0.08429341243421762,1
+13,SP,Outras atividades de serviços pessoais,23416,3,0,380611,0.06152213152010846,1
+14,SP,"Comércio varejista de produtos alimentícios, bebidas e fumo",18071,4,0,380611,0.047478922049021176,1
+15,SP,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,12489,5,0,380611,0.03281302957612891,1
+16,SP,Produção de lavouras temporárias,11380,6,0,380611,0.029899293504391623,1
+17,SP,Pecuária,11202,7,0,380611,0.02943162441442838,1
+18,SP,Comércio varejista não-especializado,10486,8,0,380611,0.027550438636823424,1
+19,SP,Manutenção e reparação de veículos automotores,10460,9,0,380611,0.027482127421435534,1
+20,SP,"Serviços de catering, bufê e outros serviços de comida preparada",10361,10,0,380611,0.027222019332073955,1
+21,SP,Outros,203625,11,0,380611,0.5349950474368844,1
+22,SE,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,891,1,0,6792,0.13118374558303886,1
+23,SE,Restaurantes e outros serviços de alimentação e bebidas,541,2,0,6792,0.07965253239104829,1
+24,SE,Outras atividades de serviços pessoais,435,3,0,6792,0.06404593639575971,1
+25,SE,"Comércio varejista de produtos alimentícios, bebidas e fumo",333,4,0,6792,0.04902826855123675,1
+26,SE,Comércio varejista não-especializado,321,5,0,6792,0.04726148409893993,1
+27,SE,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",303,6,0,6792,0.0446113074204947,1
+28,SE,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,301,7,0,6792,0.0443168433451119,1
+29,SE,Comércio varejista de material de construção,207,8,0,6792,0.030477031802120143,1
+30,SE,Publicidade,203,9,0,6792,0.029888103651354535,1
+31,SE,"Serviços de catering, bufê e outros serviços de comida preparada",164,10,0,6792,0.024146054181389872,1
+32,SE,Outros,3093,11,0,6792,0.4553886925795053,1
+33,SC,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,5474,1,0,50952,0.10743444810802323,1
+34,SC,Restaurantes e outros serviços de alimentação e bebidas,4046,2,0,50952,0.07940807034071283,1
+35,SC,Outras atividades de serviços pessoais,3292,3,0,50952,0.06460982885853352,1
+36,SC,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,1752,4,0,50952,0.03438530381535563,1
+37,SC,"Comércio varejista de produtos alimentícios, bebidas e fumo",1727,5,0,50952,0.03389464594127806,1
+38,SC,Manutenção e reparação de veículos automotores,1636,6,0,50952,0.03210865127963573,1
+39,SC,Confecção de artigos do vestuário e acessórios,1539,7,0,50952,0.03020489872821479,1
+40,SC,Comércio varejista não-especializado,1535,8,0,50952,0.03012639346836238,1
+41,SC,Outros serviços especializados para construção,1483,9,0,50952,0.02910582509028105,1
+42,SC,Publicidade,1416,10,0,50952,0.027790861987753178,1
+43,SC,Outros,27052,11,0,50952,0.5309310723818496,1
+44,RS,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,7747,1,0,70814,0.10939927133052786,1
+45,RS,Restaurantes e outros serviços de alimentação e bebidas,4594,2,0,70814,0.06487417742254356,1
+46,RS,Outras atividades de serviços pessoais,4306,3,0,70814,0.060807185019911315,1
+47,RS,Comércio varejista não-especializado,3265,4,0,70814,0.04610670206456351,1
+48,RS,"Comércio varejista de produtos alimentícios, bebidas e fumo",2708,5,0,70814,0.038241025785861554,1
+49,RS,Manutenção e reparação de veículos automotores,2415,6,0,70814,0.034103425876239164,1
+50,RS,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,2350,7,0,70814,0.0331855282853673,1
+51,RS,Outros serviços especializados para construção,2229,8,0,70814,0.031476826616205836,1
+52,RS,Serviços combinados para apoio a edifícios,1775,9,0,70814,0.025065664981500833,1
+53,RS,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",1657,10,0,70814,0.023399327816533453,1
+54,RS,Outros,37768,11,0,70814,0.5333408648007456,1
+55,RR,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,247,1,0,1638,0.15079365079365079,1
+56,RR,Restaurantes e outros serviços de alimentação e bebidas,193,2,0,1638,0.11782661782661782,1
+57,RR,"Comércio varejista de produtos alimentícios, bebidas e fumo",103,3,0,1638,0.06288156288156288,1
+58,RR,Outras atividades de serviços pessoais,99,4,0,1638,0.06043956043956044,1
+59,RR,Comércio varejista não-especializado,89,5,0,1638,0.054334554334554336,1
+60,RR,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,75,6,0,1638,0.045787545787545784,1
+61,RR,Manutenção e reparação de veículos automotores,64,7,0,1638,0.03907203907203907,1
+62,RR,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",46,8,0,1638,0.028083028083028084,1
+63,RR,Atividades de organizações associativas não especificadas anteriormente,45,9,0,1638,0.027472527472527472,1
+64,RR,Atividades de associações de defesa de direitos sociais,42,10,0,1638,0.02564102564102564,1
+65,RR,Outros,635,11,0,1638,0.3876678876678877,1
+66,RO,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,584,1,0,5080,0.11496062992125984,1
+67,RO,Restaurantes e outros serviços de alimentação e bebidas,410,2,0,5080,0.08070866141732283,1
+68,RO,Outras atividades de serviços pessoais,380,3,0,5080,0.07480314960629922,1
+69,RO,"Comércio varejista de produtos alimentícios, bebidas e fumo",269,4,0,5080,0.05295275590551181,1
+70,RO,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,217,5,0,5080,0.042716535433070864,1
+71,RO,Manutenção e reparação de veículos automotores,201,6,0,5080,0.039566929133858265,1
+72,RO,Comércio varejista não-especializado,183,7,0,5080,0.036023622047244096,1
+73,RO,Atividades de organizações associativas não especificadas anteriormente,161,8,0,5080,0.03169291338582677,1
+74,RO,Atividades de associações de defesa de direitos sociais,155,9,0,5080,0.03051181102362205,1
+75,RO,Publicidade,144,10,0,5080,0.028346456692913385,1
+76,RO,Outros,2376,11,0,5080,0.46771653543307085,1
+77,RN,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1753,1,0,13028,0.13455634019035922,1
+78,RN,Restaurantes e outros serviços de alimentação e bebidas,930,2,0,13028,0.07138470985569542,1
+79,RN,Outras atividades de serviços pessoais,855,3,0,13028,0.06562787841571999,1
+80,RN,Comércio varejista não-especializado,700,4,0,13028,0.053730426773104085,1
+81,RN,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",695,5,0,13028,0.053346638010439054,1
+82,RN,"Comércio varejista de produtos alimentícios, bebidas e fumo",689,6,0,13028,0.05288609149524102,1
+83,RN,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,599,7,0,13028,0.045977893767270496,1
+84,RN,Comércio varejista de material de construção,377,8,0,13028,0.0289376727049432,1
+85,RN,Manutenção e reparação de veículos automotores,323,9,0,13028,0.024792754068160883,1
+86,RN,"Serviços de catering, bufê e outros serviços de comida preparada",309,10,0,13028,0.0237181455326988,1
+87,RN,Outros,5798,11,0,13028,0.44504144918636784,1
+88,RJ,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,10767,1,0,109604,0.09823546585891026,1
+89,RJ,Restaurantes e outros serviços de alimentação e bebidas,10276,2,0,109604,0.09375570234662968,1
+90,RJ,Outras atividades de serviços pessoais,9034,3,0,109604,0.08242399912411956,1
+91,RJ,"Comércio varejista de produtos alimentícios, bebidas e fumo",5758,4,0,109604,0.05253457902996241,1
+92,RJ,"Serviços de catering, bufê e outros serviços de comida preparada",4572,5,0,109604,0.041713806065472064,1
+93,RJ,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,3562,6,0,109604,0.03249881391190103,1
+94,RJ,Outras atividades de ensino,3112,7,0,109604,0.02839312433852779,1
+95,RJ,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",2948,8,0,109604,0.026896828582898435,1
+96,RJ,Comércio varejista não-especializado,2800,9,0,109604,0.025546512900989016,1
+97,RJ,Comércio varejista de material de construção,2735,10,0,109604,0.02495346885150177,1
+98,RJ,Outros,54040,11,0,109604,0.493047698989088,1
+99,PR,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,9394,1,0,85724,0.10958424711865988,1
+100,PR,Restaurantes e outros serviços de alimentação e bebidas,6952,2,0,85724,0.0810974756194298,1
+101,PR,Outras atividades de serviços pessoais,5373,3,0,85724,0.06267789650506277,1
+102,PR,"Comércio varejista de produtos alimentícios, bebidas e fumo",4355,4,0,85724,0.05080257570808642,1
+103,PR,Manutenção e reparação de veículos automotores,3313,5,0,85724,0.03864728664084737,1
+104,PR,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,3311,6,0,85724,0.03862395595165881,1
+105,PR,Comércio varejista não-especializado,3085,7,0,85724,0.03598758807335169,1
+106,PR,Outros serviços especializados para construção,2547,8,0,85724,0.029711632681629414,1
+107,PR,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",2124,9,0,85724,0.024777191918249265,1
+108,PR,Publicidade,2098,10,0,85724,0.024473892958798003,1
+109,PR,Outros,43172,11,0,85724,0.5036162568242266,1
+110,PI,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1096,1,0,8584,0.1276794035414725,1
+111,PI,Comércio varejista não-especializado,696,2,0,8584,0.08108108108108109,1
+112,PI,Restaurantes e outros serviços de alimentação e bebidas,577,3,0,8584,0.06721808014911464,1
+113,PI,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",470,4,0,8584,0.054753028890959926,1
+114,PI,"Comércio varejista de produtos alimentícios, bebidas e fumo",452,5,0,8584,0.05265610438024231,1
+115,PI,Outras atividades de serviços pessoais,431,6,0,8584,0.050209692451071763,1
+116,PI,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,403,7,0,8584,0.04694780987884436,1
+117,PI,Atividades de associações de defesa de direitos sociais,324,8,0,8584,0.03774464119291705,1
+118,PI,Comércio varejista de material de construção,277,9,0,8584,0.03226933830382106,1
+119,PI,Atividades de organizações associativas não especificadas anteriormente,216,10,0,8584,0.02516309412861137,1
+120,PI,Outros,3642,11,0,8584,0.4242777260018639,1
+121,PE,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,4217,1,0,32950,0.12798179059180576,1
+122,PE,Restaurantes e outros serviços de alimentação e bebidas,2673,2,0,32950,0.08112291350531108,1
+123,PE,"Comércio varejista de produtos alimentícios, bebidas e fumo",1904,3,0,32950,0.057784522003034904,1
+124,PE,Outras atividades de serviços pessoais,1789,4,0,32950,0.054294385432473447,1
+125,PE,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,1630,5,0,32950,0.04946889226100152,1
+126,PE,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",1600,6,0,32950,0.048558421851289835,1
+127,PE,Comércio varejista não-especializado,1434,7,0,32950,0.04352048558421851,1
+128,PE,Comércio varejista de material de construção,1032,8,0,32950,0.031320182094081946,1
+129,PE,Outras atividades de ensino,792,9,0,32950,0.024036418816388468,1
+130,PE,"Serviços de catering, bufê e outros serviços de comida preparada",764,10,0,32950,0.023186646433990894,1
+131,PE,Outros,15115,11,0,32950,0.45872534142640364,1
+132,PB,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1784,1,0,14113,0.1264082760575356,1
+133,PB,Comércio varejista não-especializado,933,2,0,14113,0.06610926096506767,1
+134,PB,Restaurantes e outros serviços de alimentação e bebidas,903,3,0,14113,0.06398356125557997,1
+135,PB,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,872,4,0,14113,0.061787004889109334,1
+136,PB,"Comércio varejista de produtos alimentícios, bebidas e fumo",825,5,0,14113,0.05845674201091192,1
+137,PB,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",783,6,0,14113,0.055480762417629136,1
+138,PB,Outras atividades de serviços pessoais,728,7,0,14113,0.05158364628356834,1
+139,PB,Comércio varejista de material de construção,489,8,0,14113,0.034648905264649615,1
+140,PB,Atividades de associações de defesa de direitos sociais,315,9,0,14113,0.022319846949620917,1
+141,PB,Comércio de peças e acessórios para veículos automotores,309,10,0,14113,0.021894707007723377,1
+142,PB,Outros,6172,11,0,14113,0.4373272868986041,1
+143,PA,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1918,1,0,15867,0.12087981344929728,1
+144,PA,Restaurantes e outros serviços de alimentação e bebidas,1367,2,0,15867,0.08615365223419676,1
+145,PA,"Comércio varejista de produtos alimentícios, bebidas e fumo",1059,3,0,15867,0.06674229532993005,1
+146,PA,Outras atividades de serviços pessoais,888,4,0,15867,0.055965210814898844,1
+147,PA,Comércio varejista não-especializado,833,5,0,15867,0.052498897081994074,1
+148,PA,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,810,6,0,15867,0.05104934770277935,1
+149,PA,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",569,7,0,15867,0.03586059116405117,1
+150,PA,Publicidade,481,8,0,15867,0.030314489191403542,1
+151,PA,Atividades de associações de defesa de direitos sociais,469,9,0,15867,0.029558202558769772,1
+152,PA,"Serviços de catering, bufê e outros serviços de comida preparada",414,10,0,15867,0.026091888825865002,1
+153,PA,Outros,7059,11,0,15867,0.4448856116468141,1
+154,MT,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1608,1,0,15572,0.10326226560493193,1
+155,MT,Restaurantes e outros serviços de alimentação e bebidas,1351,2,0,15572,0.08675828409966607,1
+156,MT,Outras atividades de serviços pessoais,1090,3,0,15572,0.06999743128692525,1
+157,MT,"Comércio varejista de produtos alimentícios, bebidas e fumo",782,4,0,15572,0.05021834061135371,1
+158,MT,Manutenção e reparação de veículos automotores,671,5,0,15572,0.04309016182892371,1
+159,MT,Comércio varejista não-especializado,590,6,0,15572,0.03788851785255587,1
+160,MT,Outros serviços especializados para construção,577,7,0,15572,0.03705368610326226,1
+161,MT,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,519,8,0,15572,0.033329052144875415,1
+162,MT,Publicidade,459,9,0,15572,0.02947598253275109,1
+163,MT,"Serviços de catering, bufê e outros serviços de comida preparada",369,10,0,15572,0.0236963781145646,1
+164,MT,Outros,7556,11,0,15572,0.4852298998201901,1
+165,MS,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1555,1,0,12914,0.12041195601672604,1
+166,MS,Restaurantes e outros serviços de alimentação e bebidas,967,2,0,12914,0.07487997522069072,1
+167,MS,Outras atividades de serviços pessoais,947,3,0,12914,0.0733312683908936,1
+168,MS,"Comércio varejista de produtos alimentícios, bebidas e fumo",687,4,0,12914,0.053198079603531054,1
+169,MS,Manutenção e reparação de veículos automotores,581,5,0,12914,0.04498993340560632,1
+170,MS,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,468,6,0,12914,0.03623973981725259,1
+171,MS,Comércio varejista não-especializado,443,7,0,12914,0.03430385628000619,1
+172,MS,Outros serviços especializados para construção,436,8,0,12914,0.0337618088895772,1
+173,MS,Publicidade,358,9,0,12914,0.02772185225336844,1
+174,MS,"Serviços de catering, bufê e outros serviços de comida preparada",336,10,0,12914,0.026018274740591606,1
+175,MS,Outros,6136,11,0,12914,0.4751432553817562,1
+176,MG,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,14483,1,0,124618,0.11621916577059493,1
+177,MG,Restaurantes e outros serviços de alimentação e bebidas,10843,2,0,124618,0.08700990226131057,1
+178,MG,Outras atividades de serviços pessoais,8926,3,0,124618,0.0716268917812836,1
+179,MG,"Comércio varejista de produtos alimentícios, bebidas e fumo",7249,4,0,124618,0.0581697668073633,1
+180,MG,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,4737,5,0,124618,0.038012165176780244,1
+181,MG,Comércio varejista não-especializado,4391,6,0,124618,0.035235680238809804,1
+182,MG,Manutenção e reparação de veículos automotores,4189,7,0,124618,0.03361472660450336,1
+183,MG,Outros serviços especializados para construção,3299,8,0,124618,0.02647290118602449,1
+184,MG,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",3176,9,0,124618,0.025485884864144825,1
+185,MG,Publicidade,2972,10,0,124618,0.023848882183954163,1
+186,MG,Outros,60353,11,0,124618,0.4843040331252307,1
+187,MA,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1734,1,0,12897,0.13444987206327053,1
+188,MA,Comércio varejista não-especializado,924,2,0,12897,0.07164456850430333,1
+189,MA,"Comércio varejista de produtos alimentícios, bebidas e fumo",849,3,0,12897,0.06582926261921378,1
+190,MA,Restaurantes e outros serviços de alimentação e bebidas,807,4,0,12897,0.06257269132356362,1
+191,MA,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",715,5,0,12897,0.05543924943785376,1
+192,MA,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,638,6,0,12897,0.04946886872916182,1
+193,MA,Outras atividades de serviços pessoais,587,7,0,12897,0.04551446072730092,1
+194,MA,Atividades de associações de defesa de direitos sociais,564,8,0,12897,0.043731100255873456,1
+195,MA,Comércio varejista de material de construção,552,9,0,12897,0.04280065131425913,1
+196,MA,Atividades de organizações associativas não especificadas anteriormente,350,10,0,12897,0.027138094130417928,1
+197,MA,Outros,5177,11,0,12897,0.4014111808947817,1
+198,GO,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,3981,1,0,34870,0.11416690564955549,1
+199,GO,Restaurantes e outros serviços de alimentação e bebidas,2846,2,0,34870,0.08161743619156868,1
+200,GO,Outras atividades de serviços pessoais,2405,3,0,34870,0.06897046171494121,1
+201,GO,"Comércio varejista de produtos alimentícios, bebidas e fumo",2112,4,0,34870,0.06056782334384858,1
+202,GO,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,1452,5,0,34870,0.0416403785488959,1
+203,GO,Comércio varejista não-especializado,1448,6,0,34870,0.04152566676225982,1
+204,GO,Manutenção e reparação de veículos automotores,1285,7,0,34870,0.03685116145683969,1
+205,GO,Publicidade,1003,8,0,34870,0.028763980498996273,1
+206,GO,Confecção de artigos do vestuário e acessórios,874,9,0,34870,0.025064525379982792,1
+207,GO,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",832,10,0,34870,0.023860051620303985,1
+208,GO,Outros,16632,11,0,34870,0.4769716088328076,1
+209,ES,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,3341,1,0,24420,0.13681408681408683,1
+210,ES,Restaurantes e outros serviços de alimentação e bebidas,2548,2,0,24420,0.10434070434070435,1
+211,ES,Outras atividades de serviços pessoais,1633,3,0,24420,0.06687141687141687,1
+212,ES,"Comércio varejista de produtos alimentícios, bebidas e fumo",1343,4,0,24420,0.054995904995904996,1
+213,ES,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,877,5,0,24420,0.035913185913185916,1
+214,ES,Comércio varejista não-especializado,827,6,0,24420,0.033865683865683865,1
+215,ES,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",745,7,0,24420,0.030507780507780507,1
+216,ES,Outros serviços especializados para construção,742,8,0,24420,0.030384930384930384,1
+217,ES,Manutenção e reparação de veículos automotores,697,9,0,24420,0.028542178542178543,1
+218,ES,"Serviços de catering, bufê e outros serviços de comida preparada",646,10,0,24420,0.026453726453726453,1
+219,ES,Outros,11021,11,0,24420,0.4513104013104013,1
+220,DF,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1706,1,0,17391,0.09809671669254212,1
+221,DF,Outras atividades de serviços pessoais,1542,2,0,17391,0.08866655166465413,1
+222,DF,Restaurantes e outros serviços de alimentação e bebidas,1507,3,0,17391,0.0866540164452878,1
+223,DF,"Comércio varejista de produtos alimentícios, bebidas e fumo",886,4,0,17391,0.05094589155310218,1
+224,DF,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,613,5,0,17391,0.035248116842044735,1
+225,DF,Outras atividades de ensino,613,6,0,17391,0.035248116842044735,1
+226,DF,Publicidade,525,7,0,17391,0.030188028290495085,1
+227,DF,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",489,8,0,17391,0.028117992064861135,1
+228,DF,"Serviços de catering, bufê e outros serviços de comida preparada",465,9,0,17391,0.026737967914438502,1
+229,DF,Manutenção e reparação de veículos automotores,452,10,0,17391,0.025990454832959576,1
+230,DF,Outros,8593,11,0,17391,0.49410614685757,1
+231,CE,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,3927,1,0,33378,0.11765234585655222,1
+232,CE,Comércio varejista não-especializado,2762,2,0,33378,0.08274911618431302,1
+233,CE,Restaurantes e outros serviços de alimentação e bebidas,2657,3,0,33378,0.0796033315357421,1
+234,CE,Outras atividades de serviços pessoais,1849,4,0,33378,0.05539576966864402,1
+235,CE,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,1757,5,0,33378,0.05263946311941998,1
+236,CE,"Comércio varejista de produtos alimentícios, bebidas e fumo",1676,6,0,33378,0.05021271496195098,1
+237,CE,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",1509,7,0,33378,0.04520941937803344,1
+238,CE,Comércio varejista de material de construção,1239,8,0,33378,0.037120258853136794,1
+239,CE,Confecção de artigos do vestuário e acessórios,928,9,0,33378,0.027802744322607705,1
+240,CE,Outras atividades de ensino,752,10,0,33378,0.022529810054526932,1
+241,CE,Outros,14322,11,0,33378,0.4290850260650728,1
+242,BA,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,6593,1,0,52362,0.12591192085863795,1
+243,BA,Restaurantes e outros serviços de alimentação e bebidas,3957,2,0,52362,0.07557006989801765,1
+244,BA,Comércio varejista não-especializado,3521,3,0,52362,0.06724342080134449,1
+245,BA,"Comércio varejista de produtos alimentícios, bebidas e fumo",3374,4,0,52362,0.06443604140407165,1
+246,BA,Outras atividades de serviços pessoais,3000,5,0,52362,0.05729345708720064,1
+247,BA,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,2608,6,0,52362,0.049807112027806424,1
+248,BA,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",2251,7,0,52362,0.04298919063442955,1
+249,BA,Comércio varejista de material de construção,1642,8,0,52362,0.03135861884572782,1
+250,BA,"Serviços de catering, bufê e outros serviços de comida preparada",1400,9,0,52362,0.02673694664069363,1
+251,BA,Manutenção e reparação de veículos automotores,1192,10,0,52362,0.02276460028264772,1
+252,BA,Outros,22824,11,0,52362,0.4358886215194225,1
+253,AP,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,260,1,0,1587,0.1638311279143037,1
+254,AP,Restaurantes e outros serviços de alimentação e bebidas,135,2,0,1587,0.08506616257088846,1
+255,AP,Comércio varejista não-especializado,97,3,0,1587,0.06112161310649023,1
+256,AP,"Comércio varejista de produtos alimentícios, bebidas e fumo",93,4,0,1587,0.05860113421550094,1
+257,AP,Outras atividades de serviços pessoais,90,5,0,1587,0.05671077504725898,1
+258,AP,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",65,6,0,1587,0.04095778197857593,1
+259,AP,"Serviços de catering, bufê e outros serviços de comida preparada",50,7,0,1587,0.0315059861373661,1
+260,AP,Atividades de organizações associativas não especificadas anteriormente,48,8,0,1587,0.030245746691871456,1
+261,AP,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,46,9,0,1587,0.028985507246376812,1
+262,AP,Publicidade,38,10,0,1587,0.023944549464398234,1
+263,AP,Outros,665,11,0,1587,0.4190296156269691,1
+264,AM,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,927,1,0,7837,0.11828505805793033,1
+265,AM,Restaurantes e outros serviços de alimentação e bebidas,704,2,0,7837,0.08983029220364935,1
+266,AM,Comércio varejista não-especializado,445,3,0,7837,0.05678193186168177,1
+267,AM,Outras atividades de serviços pessoais,429,4,0,7837,0.054740334311598825,1
+268,AM,"Comércio varejista de produtos alimentícios, bebidas e fumo",361,5,0,7837,0.04606354472374633,1
+269,AM,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,325,6,0,7837,0.04146995023605972,1
+270,AM,Publicidade,296,7,0,7837,0.03776955467653439,1
+271,AM,"Serviços de catering, bufê e outros serviços de comida preparada",270,8,0,7837,0.03445195865764961,1
+272,AM,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",253,9,0,7837,0.032282761260686486,1
+273,AM,Atividades de organizações associativas não especificadas anteriormente,244,10,0,7837,0.031134362638764835,1
+274,AM,Outros,3583,11,0,7837,0.45719025137169833,1
+275,AL,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1419,1,0,9824,0.14444218241042345,1
+276,AL,Restaurantes e outros serviços de alimentação e bebidas,820,2,0,9824,0.08346905537459283,1
+277,AL,"Comércio varejista de produtos alimentícios, bebidas e fumo",641,3,0,9824,0.06524837133550489,1
+278,AL,Comércio varejista não-especializado,531,4,0,9824,0.054051302931596094,1
+279,AL,Outras atividades de serviços pessoais,517,5,0,9824,0.05262622149837134,1
+280,AL,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,510,6,0,9824,0.05191368078175896,1
+281,AL,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",503,7,0,9824,0.05120114006514658,1
+282,AL,Comércio varejista de material de construção,323,8,0,9824,0.03287866449511401,1
+283,AL,"Serviços de catering, bufê e outros serviços de comida preparada",229,9,0,9824,0.023310260586319218,1
+284,AL,Manutenção e reparação de veículos automotores,223,10,0,9824,0.022699511400651465,1
+285,AL,Outros,4108,11,0,9824,0.4181596091205212,1
+286,AC,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,295,1,0,1597,0.184721352536005,1
+287,AC,Restaurantes e outros serviços de alimentação e bebidas,150,2,0,1597,0.09392611145898559,1
+288,AC,Outras atividades de serviços pessoais,98,3,0,1597,0.061365059486537255,1
+289,AC,Comércio varejista não-especializado,96,4,0,1597,0.06011271133375078,1
+290,AC,"Comércio varejista de produtos alimentícios, bebidas e fumo",82,5,0,1597,0.05134627426424546,1
+291,AC,Atividades de organizações associativas não especificadas anteriormente,62,6,0,1597,0.038822792736380715,1
+292,AC,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,54,7,0,1597,0.033813400125234816,1
+293,AC,Publicidade,53,8,0,1597,0.03318722604884158,1
+294,AC,Atividades de associações de defesa de direitos sociais,51,9,0,1597,0.031934877896055106,1
+295,AC,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",43,10,0,1597,0.026925485284909206,1
+296,AC,Outros,613,11,0,1597,0.38384470882905447,1
+0,TO,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,377,1,0,4158,0.09066859066859066,0
+1,TO,Restaurantes e outros serviços de alimentação e bebidas,317,2,0,4158,0.07623857623857624,0
+2,TO,"Comércio varejista de produtos alimentícios, bebidas e fumo",219,4,0,4158,0.05266955266955267,0
+3,TO,Comércio varejista não-especializado,202,5,0,4158,0.04858104858104858,0
+4,TO,Outras atividades de serviços pessoais,234,3,0,4158,0.05627705627705628,0
+5,TO,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,144,7,0,4158,0.03463203463203463,0
+6,TO,Atividades de organizações associativas não especificadas anteriormente,193,6,0,4158,0.04641654641654642,0
+7,TO,Manutenção e reparação de veículos automotores,130,9,0,4158,0.031265031265031266,0
+8,TO,Publicidade,133,8,0,4158,0.03198653198653199,0
+9,TO,Outros serviços especializados para construção,129,10,0,4158,0.031024531024531024,0
+10,TO,Outros,2080,11,0,4158,0.5002405002405003,0
+11,SP,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,17180,1,0,247936,0.06929207537429014,0
+12,SP,Restaurantes e outros serviços de alimentação e bebidas,12578,3,0,247936,0.050730833763551884,0
+13,SP,Outras atividades de serviços pessoais,15413,2,0,247936,0.06216523618998451,0
+14,SP,"Comércio varejista de produtos alimentícios, bebidas e fumo",7280,9,0,247936,0.02936241610738255,0
+15,SP,Produção de lavouras temporárias,11377,4,0,247936,0.045886841765616936,0
+16,SP,Pecuária,11171,5,0,247936,0.04505598218895199,0
+17,SP,Outros,141472,11,0,247936,0.5705988642230253,0
+18,SE,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,493,1,0,4776,0.10322445561139028,0
+19,SE,Restaurantes e outros serviços de alimentação e bebidas,338,3,0,4776,0.07077051926298157,0
+20,SE,Outras atividades de serviços pessoais,357,2,0,4776,0.07474874371859297,0
+21,SE,"Comércio varejista de produtos alimentícios, bebidas e fumo",222,4,0,4776,0.04648241206030151,0
+22,SE,Comércio varejista não-especializado,160,6,0,4776,0.03350083752093802,0
+23,SE,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,155,8,0,4776,0.03245393634840871,0
+24,SE,Publicidade,192,5,0,4776,0.04020100502512563,0
+25,SE,"Serviços de catering, bufê e outros serviços de comida preparada",135,10,0,4776,0.028266331658291458,0
+26,SE,Outros,2432,11,0,4776,0.509212730318258,0
+27,SC,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,2943,1,0,36384,0.08088720316622691,0
+28,SC,Restaurantes e outros serviços de alimentação e bebidas,2023,3,0,36384,0.055601363236587514,0
+29,SC,Outras atividades de serviços pessoais,2442,2,0,36384,0.0671174142480211,0
+30,SC,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,920,10,0,36384,0.0252858399296394,0
+31,SC,Manutenção e reparação de veículos automotores,970,9,0,36384,0.026660070360598066,0
+32,SC,Confecção de artigos do vestuário e acessórios,1330,5,0,36384,0.03655452946350044,0
+33,SC,Outros serviços especializados para construção,1431,4,0,36384,0.03933047493403694,0
+34,SC,Publicidade,1325,6,0,36384,0.03641710642040458,0
+35,SC,Outros,20828,11,0,36384,0.5724494283201407,0
+36,RS,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,4785,1,0,53418,0.08957654723127036,0
+37,RS,Restaurantes e outros serviços de alimentação e bebidas,2694,3,0,53418,0.0504324385038751,0
+38,RS,Outras atividades de serviços pessoais,3479,2,0,53418,0.06512785952300723,0
+39,RS,Comércio varejista não-especializado,1453,9,0,53418,0.027200569096559213,0
+40,RS,"Comércio varejista de produtos alimentícios, bebidas e fumo",1653,6,0,53418,0.030944625407166124,0
+41,RS,Manutenção e reparação de veículos automotores,1627,7,0,53418,0.030457898086787224,0
+42,RS,Outros serviços especializados para construção,2135,4,0,53418,0.03996780111572878,0
+43,RS,Serviços combinados para apoio a edifícios,1760,5,0,53418,0.03294769553334082,0
+44,RS,Outros,30920,11,0,53418,0.5788311056198285,0
+45,RR,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,136,1,0,1022,0.13307240704500978,0
+46,RR,Restaurantes e outros serviços de alimentação e bebidas,105,2,0,1022,0.10273972602739725,0
+47,RR,"Comércio varejista de produtos alimentícios, bebidas e fumo",54,4,0,1022,0.05283757338551859,0
+48,RR,Outras atividades de serviços pessoais,66,3,0,1022,0.06457925636007827,0
+49,RR,Comércio varejista não-especializado,41,7,0,1022,0.040117416829745595,0
+50,RR,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,35,10,0,1022,0.03424657534246575,0
+51,RR,Manutenção e reparação de veículos automotores,39,8,0,1022,0.03816046966731898,0
+52,RR,Atividades de organizações associativas não especificadas anteriormente,41,6,0,1022,0.040117416829745595,0
+53,RR,Atividades de associações de defesa de direitos sociais,41,5,0,1022,0.040117416829745595,0
+54,RR,Outros,425,11,0,1022,0.4158512720156556,0
+55,RO,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,401,1,0,3863,0.10380533264302355,0
+56,RO,Restaurantes e outros serviços de alimentação e bebidas,246,3,0,3863,0.06368107688325136,0
+57,RO,Outras atividades de serviços pessoais,313,2,0,3863,0.08102511001812063,0
+58,RO,"Comércio varejista de produtos alimentícios, bebidas e fumo",179,4,0,3863,0.04633704374838209,0
+59,RO,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,134,8,0,3863,0.03468806626973855,0
+60,RO,Manutenção e reparação de veículos automotores,151,6,0,3863,0.039088791095003884,0
+61,RO,Atividades de organizações associativas não especificadas anteriormente,153,5,0,3863,0.03960652342738804,0
+62,RO,Atividades de associações de defesa de direitos sociais,150,7,0,3863,0.03882992492881181,0
+63,RO,Publicidade,128,9,0,3863,0.033134869272586076,0
+64,RO,Outros,1882,11,0,3863,0.4871861247734921,0
+65,RN,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,865,1,0,8639,0.10012732955203149,0
+66,RN,Restaurantes e outros serviços de alimentação e bebidas,519,3,0,8639,0.06007639773121889,0
+67,RN,Outras atividades de serviços pessoais,645,2,0,8639,0.07466141914573446,0
+68,RN,Comércio varejista não-especializado,380,5,0,8639,0.04398657251996759,0
+69,RN,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",239,9,0,8639,0.027665239032295404,0
+70,RN,"Comércio varejista de produtos alimentícios, bebidas e fumo",455,4,0,8639,0.05266813288575067,0
+71,RN,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,314,6,0,8639,0.03634679939807848,0
+72,RN,"Serviços de catering, bufê e outros serviços de comida preparada",243,8,0,8639,0.02812825558513717,0
+73,RN,Outros,4489,11,0,8639,0.5196203264266698,0
+74,RJ,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,5192,2,0,71359,0.07275886713659103,0
+75,RJ,Restaurantes e outros serviços de alimentação e bebidas,5024,3,0,71359,0.07040457405512969,0
+76,RJ,Outras atividades de serviços pessoais,6314,1,0,71359,0.08848218164492215,0
+77,RJ,"Comércio varejista de produtos alimentícios, bebidas e fumo",2657,5,0,71359,0.037234266175254695,0
+78,RJ,"Serviços de catering, bufê e outros serviços de comida preparada",2883,4,0,71359,0.04040135091579198,0
+79,RJ,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,1807,10,0,71359,0.025322664275003855,0
+80,RJ,Outras atividades de ensino,2575,6,0,71359,0.03608514693311285,0
+81,RJ,Outros,38573,11,0,71359,0.5405484942333834,0
+82,PR,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,4319,1,0,53563,0.08063401975244106,0
+83,PR,Restaurantes e outros serviços de alimentação e bebidas,2876,3,0,53563,0.053693781154901705,0
+84,PR,Outras atividades de serviços pessoais,3522,2,0,53563,0.06575434535033511,0
+85,PR,"Comércio varejista de produtos alimentícios, bebidas e fumo",1900,5,0,53563,0.03547224763362769,0
+86,PR,Manutenção e reparação de veículos automotores,1582,7,0,53563,0.029535313555999476,0
+87,PR,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,1482,9,0,53563,0.027668353154229598,0
+88,PR,Outros serviços especializados para construção,2328,4,0,53563,0.043462838153202774,0
+89,PR,Publicidade,1853,6,0,53563,0.03459477624479585,0
+90,PR,Outros,30796,11,0,53563,0.5749491253290517,0
+91,PI,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,645,1,0,6148,0.10491216655823032,0
+92,PI,Comércio varejista não-especializado,485,2,0,6148,0.07888744307091737,0
+93,PI,Restaurantes e outros serviços de alimentação e bebidas,367,3,0,6148,0.05969420949902407,0
+94,PI,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",242,7,0,6148,0.039362394274560834,0
+95,PI,"Comércio varejista de produtos alimentícios, bebidas e fumo",326,5,0,6148,0.05302537410540013,0
+96,PI,Outras atividades de serviços pessoais,341,4,0,6148,0.05546519193233572,0
+97,PI,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,235,8,0,6148,0.03822381262199089,0
+98,PI,Atividades de associações de defesa de direitos sociais,318,6,0,6148,0.05172413793103448,0
+99,PI,Atividades de organizações associativas não especificadas anteriormente,211,9,0,6148,0.03432010409889395,0
+100,PI,Outros,2824,11,0,6148,0.45933636955107354,0
+101,PE,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1969,1,0,20539,0.09586640050635377,0
+102,PE,Restaurantes e outros serviços de alimentação e bebidas,1418,2,0,20539,0.06903938848045182,0
+103,PE,"Comércio varejista de produtos alimentícios, bebidas e fumo",1069,4,0,20539,0.052047324601976724,0
+104,PE,Outras atividades de serviços pessoais,1244,3,0,20539,0.060567700472272265,0
+105,PE,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,720,5,0,20539,0.03505526072350163,0
+106,PE,Comércio varejista não-especializado,621,8,0,20539,0.030235162374020158,0
+107,PE,Outras atividades de ensino,655,6,0,20539,0.03189054968596329,0
+108,PE,"Serviços de catering, bufê e outros serviços de comida preparada",538,10,0,20539,0.026194069818394273,0
+109,PE,Outros,11062,11,0,20539,0.5385851307269098,0
+110,PB,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,933,1,0,9632,0.09686461794019934,0
+111,PB,Comércio varejista não-especializado,527,5,0,9632,0.05471345514950166,0
+112,PB,Restaurantes e outros serviços de alimentação e bebidas,553,4,0,9632,0.057412790697674417,0
+113,PB,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,471,6,0,9632,0.048899501661129566,0
+114,PB,"Comércio varejista de produtos alimentícios, bebidas e fumo",584,2,0,9632,0.0606312292358804,0
+115,PB,Outras atividades de serviços pessoais,582,3,0,9632,0.06042358803986711,0
+116,PB,Atividades de associações de defesa de direitos sociais,311,7,0,9632,0.032288205980066445,0
+117,PB,Outros,4831,11,0,9632,0.5015573089700996,0
+118,PA,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1321,1,0,12428,0.10629224332153202,0
+119,PA,Restaurantes e outros serviços de alimentação e bebidas,994,2,0,12428,0.07998068876729965,0
+120,PA,"Comércio varejista de produtos alimentícios, bebidas e fumo",748,3,0,12428,0.06018667524943676,0
+121,PA,Outras atividades de serviços pessoais,719,4,0,12428,0.05785323463147731,0
+122,PA,Comércio varejista não-especializado,621,5,0,12428,0.049967814612166074,0
+123,PA,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,592,6,0,12428,0.04763437399420663,0
+124,PA,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",370,10,0,12428,0.029771483746379144,0
+125,PA,Publicidade,446,8,0,12428,0.03588670743482459,0
+126,PA,Atividades de associações de defesa de direitos sociais,461,7,0,12428,0.03709365947859672,0
+127,PA,Outros,5783,11,0,12428,0.46532024460894755,0
+128,MT,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1092,1,0,11671,0.09356524719389941,0
+129,MT,Restaurantes e outros serviços de alimentação e bebidas,864,2,0,11671,0.0740296461314369,0
+130,MT,Outras atividades de serviços pessoais,833,3,0,11671,0.07137348984662839,0
+131,MT,"Comércio varejista de produtos alimentícios, bebidas e fumo",507,5,0,11671,0.04344100762573901,0
+132,MT,Manutenção e reparação de veículos automotores,426,6,0,11671,0.0365007283009168,0
+133,MT,Outros serviços especializados para construção,543,4,0,11671,0.046525576214548885,0
+134,MT,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,331,8,0,11671,0.028360894524890753,0
+135,MT,Publicidade,415,7,0,11671,0.03555822123211379,0
+136,MT,Outros,6069,11,0,11671,0.520006854596864,0
+137,MS,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1029,1,0,9526,0.10802015536426622,0
+138,MS,Restaurantes e outros serviços de alimentação e bebidas,605,3,0,9526,0.06351039260969978,0
+139,MS,Outras atividades de serviços pessoais,769,2,0,9526,0.0807264329204283,0
+140,MS,"Comércio varejista de produtos alimentícios, bebidas e fumo",402,5,0,9526,0.04220029393239555,0
+141,MS,Manutenção e reparação de veículos automotores,378,6,0,9526,0.0396808733991182,0
+142,MS,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,281,9,0,9526,0.029498215410455594,0
+143,MS,Outros serviços especializados para construção,411,4,0,9526,0.04314507663237455,0
+144,MS,Publicidade,322,7,0,9526,0.03380222548813773,0
+145,MS,Outros,4786,11,0,9526,0.5024144446777241,0
+146,MG,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,7431,1,0,84042,0.0884200756764475,0
+147,MG,Restaurantes e outros serviços de alimentação e bebidas,5327,3,0,84042,0.06338497417957688,0
+148,MG,Outras atividades de serviços pessoais,6678,2,0,84042,0.07946026986506746,0
+149,MG,"Comércio varejista de produtos alimentícios, bebidas e fumo",3508,4,0,84042,0.04174103424478237,0
+150,MG,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,2395,7,0,84042,0.028497655933937792,0
+151,MG,Manutenção e reparação de veículos automotores,2325,9,0,84042,0.027664739059041907,0
+152,MG,Outros serviços especializados para construção,3144,5,0,84042,0.03740986649532377,0
+153,MG,Publicidade,2681,6,0,84042,0.03190071630851241,0
+154,MG,Outros,45971,11,0,84042,0.5470003093691249,0
+155,MA,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,957,1,0,9283,0.10309167295055478,0
+156,MA,Comércio varejista não-especializado,668,2,0,9283,0.07195949585263385,0
+157,MA,"Comércio varejista de produtos alimentícios, bebidas e fumo",594,3,0,9283,0.0639879349348271,0
+158,MA,Restaurantes e outros serviços de alimentação e bebidas,507,5,0,9283,0.05461596466659485,0
+159,MA,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",363,8,0,9283,0.039103738015727675,0
+160,MA,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,409,7,0,9283,0.04405903264031025,0
+161,MA,Outras atividades de serviços pessoais,446,6,0,9283,0.048044813099213615,0
+162,MA,Atividades de associações de defesa de direitos sociais,553,4,0,9283,0.059571259291177424,0
+163,MA,Atividades de organizações associativas não especificadas anteriormente,333,9,0,9283,0.035872024130130346,0
+164,MA,Outros,4175,11,0,9283,0.44974684907896156,0
+165,GO,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,2183,1,0,23678,0.09219528676408481,0
+166,GO,Restaurantes e outros serviços de alimentação e bebidas,1560,3,0,23678,0.06588394290058282,0
+167,GO,Outras atividades de serviços pessoais,1783,2,0,23678,0.07530196807162767,0
+168,GO,"Comércio varejista de produtos alimentícios, bebidas e fumo",1168,4,0,23678,0.04932849058197483,0
+169,GO,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,762,6,0,23678,0.03218177210913084,0
+170,GO,Comércio varejista não-especializado,641,10,0,23678,0.027071543204662554,0
+171,GO,Manutenção e reparação de veículos automotores,685,8,0,23678,0.02892980826083284,0
+172,GO,Publicidade,912,5,0,23678,0.03851676661880226,0
+173,GO,Confecção de artigos do vestuário e acessórios,664,9,0,23678,0.02804290902947884,0
+174,GO,Outros,12625,11,0,23678,0.5331953712306783,0
+175,ES,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,1589,1,0,16544,0.09604690522243714,0
+176,ES,Restaurantes e outros serviços de alimentação e bebidas,1332,2,0,16544,0.08051257253384914,0
+177,ES,Outras atividades de serviços pessoais,1240,3,0,16544,0.07495164410058026,0
+178,ES,"Comércio varejista de produtos alimentícios, bebidas e fumo",712,5,0,16544,0.043036750483559,0
+179,ES,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,464,8,0,16544,0.02804642166344294,0
+180,ES,Outros serviços especializados para construção,715,4,0,16544,0.04321808510638298,0
+181,ES,Manutenção e reparação de veículos automotores,432,10,0,16544,0.02611218568665377,0
+182,ES,"Serviços de catering, bufê e outros serviços de comida preparada",458,9,0,16544,0.02768375241779497,0
+183,ES,Outros,8568,11,0,16544,0.5178916827852998,0
+184,DF,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,964,2,0,12311,0.07830395581187556,0
+185,DF,Outras atividades de serviços pessoais,1130,1,0,12311,0.09178783202014458,0
+186,DF,Restaurantes e outros serviços de alimentação e bebidas,791,3,0,12311,0.06425148241410121,0
+187,DF,"Comércio varejista de produtos alimentícios, bebidas e fumo",451,6,0,12311,0.0366339046381285,0
+188,DF,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,362,7,0,12311,0.029404597514418,0
+189,DF,Outras atividades de ensino,551,4,0,12311,0.044756721631061654,0
+190,DF,Publicidade,488,5,0,12311,0.03963934692551377,0
+191,DF,"Serviços de catering, bufê e outros serviços de comida preparada",323,9,0,12311,0.026236698887174073,0
+192,DF,Manutenção e reparação de veículos automotores,250,10,0,12311,0.020307042482332872,0
+193,DF,Outros,6646,11,0,12311,0.5398424173503371,0
+194,CE,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,2281,1,0,22442,0.10163978255057482,0
+195,CE,Comércio varejista não-especializado,1670,2,0,22442,0.07441404509402014,0
+196,CE,Restaurantes e outros serviços de alimentação e bebidas,1480,3,0,22442,0.06594777649050887,0
+197,CE,Outras atividades de serviços pessoais,1391,4,0,22442,0.06198199803939043,0
+198,CE,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,994,6,0,22442,0.044291952588895823,0
+199,CE,"Comércio varejista de produtos alimentícios, bebidas e fumo",1103,5,0,22442,0.04914891720880492,0
+200,CE,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",699,7,0,22442,0.03114695659923358,0
+201,CE,Confecção de artigos do vestuário e acessórios,635,10,0,22442,0.028295160859103465,0
+202,CE,Outros,10875,11,0,22442,0.4845824792799216,0
+203,BA,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,3349,1,0,34483,0.0971203201577589,0
+204,BA,Restaurantes e outros serviços de alimentação e bebidas,2130,3,0,34483,0.06176956761302671,0
+205,BA,Comércio varejista não-especializado,1801,5,0,34483,0.0522286343995592,0
+206,BA,"Comércio varejista de produtos alimentícios, bebidas e fumo",1955,4,0,34483,0.056694603137778035,0
+207,BA,Outras atividades de serviços pessoais,2190,2,0,34483,0.06350955543311197,0
+208,BA,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,1337,6,0,34483,0.03877272859089986,0
+209,BA,"Serviços de catering, bufê e outros serviços de comida preparada",997,9,0,34483,0.028912797610416728,0
+210,BA,Outros,17613,11,0,34483,0.5107734245860279,0
+211,AP,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,178,1,0,1159,0.1535806729939603,0
+212,AP,Restaurantes e outros serviços de alimentação e bebidas,87,2,0,1159,0.07506471095772217,0
+213,AP,Comércio varejista não-especializado,51,5,0,1159,0.04400345125107852,0
+214,AP,"Comércio varejista de produtos alimentícios, bebidas e fumo",61,4,0,1159,0.05263157894736842,0
+215,AP,Outras atividades de serviços pessoais,67,3,0,1159,0.057808455565142365,0
+216,AP,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",49,6,0,1159,0.04227782571182054,0
+217,AP,"Serviços de catering, bufê e outros serviços de comida preparada",38,8,0,1159,0.03278688524590164,0
+218,AP,Atividades de organizações associativas não especificadas anteriormente,46,7,0,1159,0.03968938740293356,0
+219,AP,Publicidade,34,9,0,1159,0.029335634167385678,0
+220,AP,Outros,517,11,0,1159,0.4460742018981881,0
+221,AM,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,601,1,0,5850,0.10273504273504273,0
+222,AM,Restaurantes e outros serviços de alimentação e bebidas,428,2,0,5850,0.07316239316239316,0
+223,AM,Comércio varejista não-especializado,305,4,0,5850,0.05213675213675214,0
+224,AM,Outras atividades de serviços pessoais,309,3,0,5850,0.05282051282051282,0
+225,AM,"Comércio varejista de produtos alimentícios, bebidas e fumo",232,7,0,5850,0.03965811965811966,0
+226,AM,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,220,8,0,5850,0.037606837606837605,0
+227,AM,Publicidade,262,5,0,5850,0.044786324786324785,0
+228,AM,"Serviços de catering, bufê e outros serviços de comida preparada",187,9,0,5850,0.03196581196581197,0
+229,AM,Atividades de organizações associativas não especificadas anteriormente,233,6,0,5850,0.03982905982905983,0
+230,AM,Outros,2887,11,0,5850,0.4935042735042735,0
+231,AL,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,753,1,0,6439,0.11694362478645752,0
+232,AL,Restaurantes e outros serviços de alimentação e bebidas,473,2,0,6439,0.07345861158564995,0
+233,AL,"Comércio varejista de produtos alimentícios, bebidas e fumo",419,3,0,6439,0.06507221618263706,0
+234,AL,Comércio varejista não-especializado,296,5,0,6439,0.045969871097996585,0
+235,AL,Outras atividades de serviços pessoais,386,4,0,6439,0.059947196769684734,0
+236,AL,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,269,6,0,6439,0.04177667339649014,0
+237,AL,"Comércio varejista de produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ópticos e ortopédicos",208,7,0,6439,0.03230315266345706,0
+238,AL,"Serviços de catering, bufê e outros serviços de comida preparada",180,10,0,6439,0.0279546513433763,0
+239,AL,Outros,3081,11,0,6439,0.47849044882745767,0
+240,AC,Comércio varejista de produtos novos não especificados anteriormente e de produtos usados,230,1,0,1293,0.17788089713843774,0
+241,AC,Restaurantes e outros serviços de alimentação e bebidas,107,2,0,1293,0.08275328692962104,0
+242,AC,Outras atividades de serviços pessoais,83,3,0,1293,0.06419180201082754,0
+243,AC,Comércio varejista não-especializado,63,4,0,1293,0.048723897911832945,0
+244,AC,"Comércio varejista de produtos alimentícios, bebidas e fumo",57,6,0,1293,0.04408352668213457,0
+245,AC,Atividades de organizações associativas não especificadas anteriormente,61,5,0,1293,0.04717710750193349,0
+246,AC,Comércio varejista de equipamentos de informática e comunicação; equipamentos e artigos de uso doméstico,37,9,0,1293,0.028615622583139984,0
+247,AC,Publicidade,51,7,0,1293,0.03944315545243619,0
+248,AC,Atividades de associações de defesa de direitos sociais,50,8,0,1293,0.038669760247486466,0
+249,AC,Outros,525,11,0,1293,0.4060324825986079,0
